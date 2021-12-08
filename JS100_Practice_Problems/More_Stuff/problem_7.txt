@@ -1,0 +1,3 @@
+Exception Handling
+- how we can handle errors given by our problem
+- allows us to handle the error in order to prevent major failures or bugs

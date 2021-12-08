@@ -1,0 +1,9 @@
+substring - String Constructor and Prototype method
+create - Object Constructor and Static method
+fromCharCode - String Constructor and Static method
+slice - String Constructor and Prototype method
+      - Array Constructor and Prototype method
+toString - Array Constructor and Prototype method
+         - Object Constructor and Prototype method
+         - Number Constructor and Prototype method
+         - String Constructor and Prototype method

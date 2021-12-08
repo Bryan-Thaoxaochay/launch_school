@@ -1,0 +1,3 @@
+index = lowercase for regular variables and functions
+lazyDog = camelCase for regular variables and functions with more than 1 word
+operand2 = first character isn't a number

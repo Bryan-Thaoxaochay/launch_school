@@ -1,0 +1,3 @@
+snake_case - not capital letters
+quick_fox - not capital letters
+1stCharacter - first character can't be a number

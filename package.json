@@ -1,0 +1,22 @@
+{
+  "name": "launch_school",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryan-Thaoxaochay/launch_school.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryan-Thaoxaochay/launch_school/issues"
+  },
+  "homepage": "https://github.com/Bryan-Thaoxaochay/launch_school#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
